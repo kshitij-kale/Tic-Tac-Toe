@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 Play tic tac toe online with an AI on a custom size grid with varying difficulty levels.
 
-##Plan
+## Plan
 1. Make the html, css and javascript file
 2. Make the UI without the grid
 3. Add functionality to the UI
